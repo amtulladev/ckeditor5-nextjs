@@ -9,7 +9,7 @@ const CustomEditor = dynamic(
 
 export default function Home() {
   return (
-    <main className="bg-gray-100 h-screen">
+    <main className="bg-gray-100 h-screen px-5">
       <section className="pt-10 max-w-[1200px] mx-auto">
         <CustomEditor />
       </section>
